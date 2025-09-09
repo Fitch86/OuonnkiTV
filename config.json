@@ -1,0 +1,182 @@
+  [ {
+    "id": "source1",
+    "name": "电影天堂",
+    "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "detailUrl": "http://caiji.dyttzyapi.com",
+    "isEnabled": true
+  },
+ {
+    "id": "source2",  
+   "name": "暴风资源",
+   "url": "https://bfzyapi.com/api.php/provide/vod",
+    "detailUrl": "http://bfzyapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source3",
+  "url": "https://tyyszy.com/api.php/provide/vod",
+  "name": "天涯资源",
+    "detailUrl": "http://tyyszy.com",  
+    "isEnabled": true
+ },
+ {
+    "id": "source4",
+  "url": "https://api.ffzyapi.com/api.php/provide/vod",
+  "name": "非凡影视",
+  "detailurl": "http://ffzy5.tv",
+    "isEnabled": true
+ },
+ {
+    "id": "source5",
+  "url": "https://360zy.com/api.php/provide/vod",
+  "name": "360资源",
+  "detailurl": "http://360zy.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source6",
+  "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+  "name": "茅台资源",
+  "detailurl": "http://caiji.maotaizy.cc",
+    "isEnabled": true
+ },
+ {
+    "id": "source7",
+  "url": "https://wolongzyw.com/api.php/provide/vod",
+  "name": "卧龙资源",
+  "detailurl": "http://wolongzyw.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source8",
+  "url": "https://jszyapi.com/api.php/provide/vod",
+  "name": "极速资源",
+  "detailurl": "https://jszyapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source9",
+  "url": "https://dbzy.tv/api.php/provide/vod",
+  "name": "豆瓣资源",
+  "detailurl": "http://dbzy.tv",
+    "isEnabled": true
+ },
+ {
+    "id": "source10",
+  "url": "https://mozhuazy.com/api.php/provide/vod",
+  "name": "魔爪资源",
+  "detailurl": "http://mozhuazy.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source11",
+  "url": "https://www.mdzyapi.com/api.php/provide/vod",
+  "name": "魔都资源",
+    "detailurl": "http://www.mdzyapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source12",
+  "url": "https://api.zuidapi.com/api.php/provide/vod",
+  "name": "最大资源",
+    "detailurl": "http://api.zuidapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source13",
+  "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+  "name": "樱花资源",
+    "detailurl": "http://m3u8.apiyhzy.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source14",
+  "url": "https://api.wujinapi.me/api.php/provide/vod",
+  "name": "无尽资源",
+    "detailurl": "http://api.wujinapi.me",
+    "isEnabled": true
+ },
+ {
+    "id": "source15",
+  "url": "https://wwzy.tv/api.php/provide/vod",
+  "name": "旺旺短剧",
+    "detailurl": "http://wwzy.tv",
+    "isEnabled": true
+ },
+ {
+    "id": "source16",
+  "url": "https://ikunzyapi.com/api.php/provide/vod",
+  "name": "iKun资源",
+    "detailurl": "http://ikunzyapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source17",
+  "url": "https://cj.lziapi.com/api.php/provide/vod",
+  "name": "量子资源",
+    "detailurl": "http://cj.lziapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source18",
+  "url": "https://api.apibdzy.com/api.php/provide/vod",
+  "name": "百度资源",
+    "detailurl": "http://api.apibdzy.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source19",
+  "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+  "name": "红牛资源",
+    "detailurl": "http://www.hongniuzy2.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source20",
+  "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+  "name": "新浪资源",
+    "detailurl": "http://api.xinlangapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source21",
+  "url": "https://ckzy.me/api.php/provide/vod",
+  "name": "CK资源",
+  "detailurl": "https://ckzy.me",
+    "isEnabled": true
+ },
+ {
+    "id": "source22",
+  "url": "https://api.ukuapi.com/api.php/provide/vod",
+  "name": "U酷资源",
+  "detailurl": "https://api.ukuapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source23",
+  "url": "https://api.1080zyku.com/inc/apijson.php/",
+  "name": "1080资源",
+  "detailurl": "https://api.1080zyku.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source24",
+  "url": "https://hhzyapi.com/api.php/provide/vod",
+  "name": "豪华资源",
+  "detailurl": "https://hhzyapi.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source25",
+  "url": "https://subocaiji.com/api.php/provide/vod",
+  "name": "速博资源",
+    "detailurl": "http://subocaiji.com",
+    "isEnabled": true
+ },
+ {
+    "id": "source26",
+  "url": "https://p2100.net/api.php/provide/vod",
+  "name": "飘零资源",
+  "detailurl": "https://p2100.net",
+      "isEnabled": true
+ } ]
