@@ -186,11 +186,4 @@
    "url": "https://api.guangsuapi.com/api.php/provide/vod",
     "detailUrl": "http://api.guangsuapi.com",
     "isEnabled": true
- },
- {
-    "id": "source28",  
-   "name": "虎牙资源",
-   "url": "http://www.huyaapi.com/api.php/provide/vod",
-    "detailUrl": "http://www.huyaapi.com",
-    "isEnabled": true
  } ]
